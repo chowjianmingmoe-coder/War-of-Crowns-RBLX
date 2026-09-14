@@ -1,0 +1,6 @@
+{
+  "name": "War of Crowns",
+  "description": "Official website for War of Crowns, an epic grand strategy and tactical fantasy warfare game. Command rival houses, master turn-based battles, and claim the high throne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
